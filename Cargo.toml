@@ -1,0 +1,11 @@
+[package]
+name = "aoc19-day-one"
+version = "0.1.0"
+authors = ["moye002 <elizabeth.moy@disney.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ferris-says = "0.1"
+libmath = "0.1.4"
